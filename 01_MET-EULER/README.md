@@ -1,1 +1,0 @@
-# AMN_Metodo-Euler
